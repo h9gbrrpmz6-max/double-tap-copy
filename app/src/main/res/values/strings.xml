@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">双击复制</string>
+    <string name="accessibility_description">用于在微信中双击消息气泡复制内容。不会收集或上传任何个人信息。</string>
+    <string name="status_enabled">服务已开启 ✓</string>
+    <string name="status_disabled">服务未开启</string>
+    <string name="btn_open_settings">打开无障碍设置</string>
+    <string name="instructions">开启服务后，在微信中双击聊天消息即可复制到剪贴板。</string>
+</resources>
